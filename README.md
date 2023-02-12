@@ -1,17 +1,17 @@
 # RESULTS
 
-## Display contact list
++ ## Display contact list
 
-https://ibb.co/cbVhR2f
+### *[node index.js --action="list](https://ibb.co/cbVhR2f)*
 
-## Get contact by id
++ ## Get contact by id
 
-https://ibb.co/JzhTb6x
+### *[node index.js --action="get" --id=5](https://ibb.co/JzhTb6x)*
 
-## Add contact
++ ## Add contact
 
-https://ibb.co/qkX9KZv
+### *[node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"](https://ibb.co/qkX9KZv)*
 
-## Remove contact
++ ## Remove contact
 
-https://ibb.co/Hrhd1Y2
+### *[node index.js --action="remove" --id=3](https://ibb.co/Hrhd1Y2)*
